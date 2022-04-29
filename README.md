@@ -11,12 +11,7 @@
 ## olny a test
 ### sorry james
 
-- Bulleted
-- List
+this is an exlusive version of site test.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 
